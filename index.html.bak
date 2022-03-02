@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+  <head>
+  
+    <!-- Page Title -->
+		<title>Home</title>
+  
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+	<!-- Compressed Styles -->
+	<!-- <link href="css/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"> -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <link href="css/slides.min.css?41331" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="css/Main.css">
+	<!-- Compressed Scripts -->
+	<script src="js/slides.min.js?41331" type="text/javascript"></script>
+
+	<!-- Custom Scripts -->
+	<!-- <script src="js/custom.js" type="text/javascript"></script> -->
+
+	<!-- Fonts and Material Icons -->
+	<link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600,700|Material+Icons"/>
+
+  <style>
+    .aboutduchhen{
+      height: 320px;
+      align-items: center;
+      background-size: cover;
+    }
+    .cont-DMD{
+      padding: 100px;
+    }
+    .footer{
+      background-color: #0b0d17;
+      color: white;
+    }
+	@media screen and (max-width: 800px) {
+		.aboutduchhen{
+			width:auto;
+			background-position-x: center;
+		}
+		.WhatisDMD{
+				    margin-left: 37% !important;
+			}
+}
+.first{
+margin-bottom:-33%
+}
+.WhatisDMD{
+	background-color: black;
+	color: white;
+	width: fit-content;
+	 position:static;
+	 text-align: left;
+	 margin-left: 76%;
+	 margin-right: 90px;
+	 margin-top: 10%;
+
+}
+  </style>
+  </head>
+  <body>
+      <div name="navbar">
+        <nav class="panel top">
+          <div class="sections desktop">
+            <!-- <div class="left"><a href="#" title="Slides Framework"><svg style="width:82px;height:24px"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg></a></div> -->
+            <div class="center">
+              <ul class="menu uppercase">
+                <div class="flex-container"> 
+                  <img class= "logo-img" src="./logo.jpeg" style="height: 70px;" >
+                  <!-- <h1 class="heading-about" style = "color:#d44f71;border:30%;">About Us</h1> -->
+                  <!-- <div class="text-item"><p class="p-text">The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.</div> -->
+                    
+                <li><a href="./index.html">Home</a>            
+                </li>
+                <li><a href="./Aboutus.html">About Us</a></li>
+                <li class="supernav"><a href="./care.html">Care</a>
+                  <ul class="Subnav">
+                    <li><a href="./video.html">Physiotherapy</a></li> <br>
+                    <li><a href="./Hydropathy.html">Hydropathy</a></li> <br>
+                    <li><a href="./comingsoon.html">Diet</a></li> <br>
+                    <li><a href="./comingsoon.html">Counselling</a></li> <br>
+                  </ul>
+                </li>
+              
+                <li>
+                  <a href="./Resources.html">Resources</a>
+                  <ul class = "Subnav">
+                    <li><a href="DMD-Parental-Guidelines.pdf" target="_blank">Guidelines for DMD <br> parents (courtesy IAP)</a></li> <br>
+                    <li><a href="PJ_Nicholoff_Steroid_Protocol.pdf" target="_blank">Steroid protocol</a></li> <br>
+                    <li><a href="steroid-use-and-dmd-for-clinicians-final.pdf" target = "_blank">Steroid side effects and <br> management</a></li> <br>
+                    <li><a href="dmd-hindi.pdf" target="_blank"> डी एम डी की जानकारी (aiims)</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1078918816267266/" target="_blank"> Meeting with dr Anna</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1038707983644004/" target="_blank">Education is must(aiims)</a></li> <br>
+                    <li><a href="./comingsoon.html">Disabilty Certificate</a> </li> <br>
+                    <li><a href="./comingsoon.html">Supportive Devices And <br> Equipment</a> </li> <br>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">Kids Corner</a>
+                  <ul class = "Subnav">
+                    <li><a href="./Achivements.html">Achievements</a></li> <br>
+                    <li><a href="./comingsoon.html">Skills</a></li> <br>
+                    <li><a href="./ImportanceofEducation.html">Education</a></li> <br>
+                    <li><a href="./comingsoon.html">Mental Health</a>
+                      <ul class="Subnav" >
+                        <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                        <li><a href="./comingsoon.html">Facing Society</a></li> <br>
+                        <li><a href="./comingsoon.html">Build Confidence</a></li> <br>
+                      </ul>
+                    
+                    </li> <br>
+                  </ul>
+                
+                </li>
+                <li><a href="#">Moms Corner</a>
+                  <ul class="Subnav">
+                    <li><a href="./ImprovingqualityofLife.html">Improving Quality Of Life</a></li> <br>
+                    <li><a href="./Informingyourson.html">Informing Your Son</a></li> <br>
+                    <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                    <li><a href="./comingsoon.html">Depression</a></li> <br>
+                    <li><a href="Carrier.html">Carrier</a></li> <br>
+                    <li><a href="./comingsoon.html">Sharing Experience</a></li> <br>
+                    <li><a href="./comingsoon.html">Heath Tips</a></li> <br>
+                    <li><a href="./HomeRemedies.html">Home Remedies</a></li> <br>
+                    <li><a href="UnplannedJourney.html">The Unplanned journey</a></li>
+                  </ul>
+                
+                </li>
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank">Contact Us</a></li>
+              </div>
+              </ul>
+            </div>
+            <div class="right">
+              <ul class="menu trim">
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook"></use></svg></a></li>
+                <li><a href="https://twitter.com/dmdindiamom" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter"></use></svg></a></li>
+              </ul>
+            </div>
+          </div>
+           </nav>
+		  </div>
+       
+      <!-- <div class="flex-container"> 
+        <img class= "logo-img" src="./logo.jpeg" >
+        <h1 class="heading-about" style = "color:#d44f71;border:30%;">Importance Of Education</h1>
+        <!-- <div class="text-item"><p class="p-text">The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.</div> -->
+<!-- <br> -->
+<div class="first">  
+<section class = "aboutduchhen" style = "background-image: url(./assets/img/background/pexels-yan-krukov-5792944.jpg);">
+  <div class= "WhatisDMD"> 
+	<center class ="testing">
+		  <h1 style="    display: inline-block;
+			font-family: flama_ultracondensedsemibold;
+			font-size: 65px;
+			text-transform: uppercase;
+			color: #fff;
+			background: #000;
+			padding: 25px 18px; font-size: 59px/;">What is DMD </h1>
+	</center>
+  </div>
+  </section>
+    <div class = "cont-DMD">
+      <p>
+        The most common muscular dystrophy in children is Duchenne muscular dystrophy. It's an illness that causes muscles to weaken over time, eventually affecting the entire body. It is not contagious to have Duchenne muscular dystrophy. Duchenne affects around one out of every 5,000 boys, and 20,000 kids are born with it each year throughout the world. Duchenne affects predominantly boys and affects people of all colours and cultures. Even brothers with the same mutation may experience symptoms in quite different ways. The symptoms of Duchenne are progressive, ranging from mild to severe.</p>
+      
+    </div>
+	
+</div>
+
+ <div class="second">  
+
+	<section class = "aboutus" style="margin-top: 30%;" id = "aboutus">
+	  <div class = "Aim1" style="background-color: rgb(213 243 255);">
+		 <h1 style="font-family: flama_ultracondensedsemibold; font: size 23px;">
+		  <center> <strong >ABOUT US</strong></center>
+		 </h1>
+		 <div class = "cont-DMD" style="padding-top: 10px;">
+		  <p>
+			We think from the perspective of a mother of specially-abled. We should come together and help each other to bring up a child. There are many questions and confusions in the mother's mind while bringing up a specially-abled child. We took the initiative to form this group for mothers of DMD. We are here to help you and guide you through.
+	Duchenne Muscular Dystrophy (DMD) is the most common form of muscular dystrophy. It is a rare genetic condition that weakens a child's muscle and spreads loss of muscle mass throughout the body.
+			<div class = "abus - ob" style="background-color: #feeae5; padding: 20px; height: 60%; border-radius: 1%;">
+					<center> 
+						<h2 style="font-family: flama_ultracondensedsemibold;">OUR OBJECTIVES</h2> 
+					</center>
+					<!-- <strong style="font-size: x-large;"> -->
+					<ul style="font-size:1em;font-size: 16pt;font-family:system-ui;">
+						<li>  To spread awareness about DMD and ways to take care of DMD children </li>
+						  <li>To maintain a child's mental and physical health and lessen the side effects of DMD to provide a better quality of life. </li>
+						  <li>Counsel mothers who are facing depression, by conducting monthly meetings. So that they could be able to open up, share their problems and talk about negative thoughts to overcome them. </li>
+						  <li>Mothers can share the treatment that they are doing on their children with other fellow members. And also talk about equipment they are using for their children. </li>
+						  <li>Spread awareness of educating the child and using a wheelchair, which would benefit their child for socializing. </li>
+						  <li>To find out talent in the children and praise them. </li>
+						  <li>Have online monthly meetings with mothers and listen to their issues. </li>
+					</ul>
+					<!-- </strong> -->
+					</div>
+				</p>
+		
+			</div> 
+	</div>
+	</section>
+</div>
+
+
+<!-- <footer>
+    <div class="foter" style="background-color: #222635;">
+      <p style = "display: inline-block;color: white;">Contact us:dmdindia@gmail.com </p> 
+    </div>
+</footer> -->
+  
+      <div class="footer">
+        <marquee>"Think Positive Be Positive Live Positive To Provide Best Care To Your Kid". Let's walk the journey together, You are not alone...   Contact us:dmdindiamom@gmail.com</marquee>
+	</div>
+  </body>
+</html>

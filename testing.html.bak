@@ -1,0 +1,26 @@
+<html>
+<head>
+ <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<!-- <script>
+$.get("Navbar.html", function(data){
+console.log(data);
+    $("#nav-placeholder").replaceWith(data);
+});
+</script> -->
+</head>
+
+<body>
+
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("Navbar.html");
+});
+</script>
+
+</body>
+
+</html>

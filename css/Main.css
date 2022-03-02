@@ -1,0 +1,157 @@
+body{
+  color: black;
+  /* background-color: #ededed; */
+  font-family: 'Roboto';
+  margin: 0;
+}
+/* .flex-container { */
+.flex-container {
+  /* column-gap: 2%; */
+  display: flex;
+  flex-direction: row;
+  /* margin-bottom: -61px; */
+}
+.heading-about{
+align-self: center;
+}
+
+.text-item .p-text {
+  align-self: center;
+  font-size: larger;
+}
+p{
+  text-align: justify;
+}
+.logo-img{
+  border-radius: 50%;
+}
+li{
+  list-style: disc;
+}
+
+.no-marker {
+  list-style: none;
+}
+.no-marker ul li {
+  list-style: none;
+}
+
+
+.heading-About-us{
+  /* padding-top: 5%; */
+  text-align: center;
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* text-align: center; */
+  border-radius: 5px;
+  height: 360px;
+}
+
+.desc {
+  display: inline-block;
+}
+
+ul{
+  font-size: initial;
+  padding-left: 1%;
+}
+.footer {
+  background-color: rgb(34 38 53);
+  color: #FFF;
+  display: flex;
+  align-items: center;
+  /* padding: 5px; */
+  font-size: larger;
+}
+nav.panel.top {
+  background-color: white;
+}
+/* h1{
+font-weight: inherit;
+} */
+/* h2{
+color: #d44f71;
+} */
+.center li a:hover{
+color: #4242a1;
+background-color: #dddddd;
+border-radius: 5%;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  color: black;
+  text-transform: uppercase;
+  font-weight: 800;
+  opacity: .9;
+  font-size: 14px;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.nav-item:hover .nav-link:hover {
+  color: #2c2c85;
+  background-color: #dddddd;
+  border-radius: 5%;
+}
+
+.center ul li{
+position: relative;
+list-style: none;
+display: inline-block;
+line-height: 30px;
+}
+.center ul li a{
+display:block;
+text-decoration: none;
+line-height: 40px;
+padding-top: 0%;
+
+}
+.center ul ul{
+position: absolute;
+top:60px;
+display:none;
+}
+.center ul ul{
+position: absolute;
+top:40px;
+display:none;
+}
+.center ul li:hover>ul{
+display: block;
+}
+.center ul ul li{
+ width:200px; 
+ float:none;
+ display:list-item; 
+ position:relative;
+  /* padding: 2%; */
+} 
+.Subnav{
+background-color: #dddddd;
+/* margin-left: 74%; */
+border-radius: 2%;
+}
+
+/* .objective li {
+  list-style: disc;
+  font-size: 22px;
+  /* line-height: 1.6363636364;
+  margin-bottom: 12px;
+  font-weight: 300;
+  margin-left: 1%;
+} */
+/* @media screen and (max-width: 800px) {
+.aboutduchhen{
+width:30%
+}
+} */
+
