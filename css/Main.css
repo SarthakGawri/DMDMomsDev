@@ -1,4 +1,6 @@
-body{
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+body {
   color: black;
   /* background-color: #ededed; */
   font-family: 'Roboto';
@@ -139,6 +141,37 @@ display: block;
 background-color: #dddddd;
 /* margin-left: 74%; */
 border-radius: 2%;
+}
+
+.bi {
+  margin-left: 10px;
+}
+
+.bi-envelope-fill {
+  font-size: 2em;
+  /* margin-left: 10px; */
+  color: #f26522;
+}
+
+.bi-twitter {
+  /* margin-right: 10px; */
+  font-size: 2em;
+  color: #00acee;
+}
+
+.bi-facebook {
+  font-size: 2em;
+  color: #1092f3;
+}
+.bi-whatsapp {
+  margin-left: 0;
+  font-size: 2em;
+  color: #FFF;
+}
+.social {
+  display: flex;
+  align-items: center;
+  /* font-size: 1.5em; */
 }
 
 /* .objective li {
