@@ -19,39 +19,70 @@
 	    <link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600,700|Material+Icons"/>
 
     <style>
-      .aboutduchhen{
-        height: 320px;
+      .first {
+        margin: auto;
+        width: 55.75rem;
+        height: 35rem;
+      }
+      .aboutduchhen {
+        width: 100%;
+        height: 100%;
         align-items: center;
         background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center top;
       }
-      .cont-DMD{
-        padding: 100px;
-        margin-top: 10%;
-      }
-      .footer{
-        background-color: #0b0d17;
-        color: white;
-      }
-      @media screen and (max-width: 1023px) {
-        .aboutduchhen{
-          width:auto;
-          background-position-x: center;
-        }
-        .block{
-            margin-left: 37% !important;
-          }
-      }
-
-      .block{
+      .block {
         background-color: black;
         color: white;
         width: fit-content;
-        position:static;
+        position: static;
         text-align: left;
-        margin-left: 76%;
+        margin-left: 57%;
         margin-right: 90px;
-        margin-top: 10%;
-
+      }
+      .testing {
+        display: inline-block;
+        text-align: center;
+        font-family: flama_ultracondensedsemibold;
+        font-size: 42.28px;
+        text-transform: uppercase;
+        color: #fff;
+        background: #000;
+        padding: 25px 18px;
+      }
+      .cont-hyd {
+        padding: 1px 100px;
+      }
+      .aboutus {
+        margin-top: 30%;
+      }
+      .footer {
+        background-color: #0b0d17;
+        color: white;
+      }
+      @media screen and (max-width: 800px) {
+        .first {
+        margin: auto;
+        width: 25rem;
+        height: 15rem;
+        }
+        .aboutduchhen {
+          width: 100%;
+          height: 100%;
+          background-position: center center;
+        }
+        .cont-hyd {
+          font-size: 12px;
+          padding: 1px 55px;
+        }
+        .testing {
+          padding: 7px 10px;
+          font-size: 22px;
+        }
+        .block{
+            margin-left: 50% !important;
+        }
       }
     </style>
   </head>
@@ -266,28 +297,23 @@
 
 <div class="first">		  
 	<section class = "aboutduchhen" style = "background-image: url(./assets/img/background/img-phsi.jpg);">
-		<div class ="block" style = "background-color: black; color: white; width: fit-content; margin-left:57%;  ">
-		<h1 style="    display: inline-block;
-			font-family: flama_ultracondensedsemibold;
-			font-size: 65px;
-			text-transform: uppercase;
-			color: #fff;
-			background: #000;
-			padding: 25px 18px;">physiotherapy
-		</h1>  
+		<div class ="block">
+		<h1 class="testing">
+      Physiotherapy
+		</h1>
 		</div>
 	</section>
 </div>
 
 
  <div class="second">
-<section class = "aboutus" style="margin-top: 7%;">
+<section class = "aboutus" style="margin-top: 5%;">
    <div class = "Aim">
   <div class = "Aim" style="background-color: white;">
      <!-- <h1 style="font-family: flama_ultracondensedsemibold; font-size: 40px;">
        <strong >Explore</strong>
      </h1> -->
-     <div class = "cont-hyd" style = "padding: 1px 100px;">
+     <div class="cont-hyd">
       <p>
         <!-- <h4 style="color: blue;">About Us</h4> -->
         
@@ -295,11 +321,10 @@
                 
         Please do consult your physiotherapist before trying anything at home.
       </p><br>
-      <center>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/JUt2FoIjf7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HTEkzvdkGWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-    </center>
+      <p style="text-align: center;">
+        <iframe width="480" height="315" src="https://www.youtube.com/embed/JUt2FoIjf7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/HTEkzvdkGWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
     </div>
 </div> 
 </div>
