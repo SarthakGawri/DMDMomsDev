@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+  <head>
+  
+    <!-- Page Title -->
+		<title>Improving Quality Of Life</title>
+  
+  
+	<!-- Compressed Styles -->
+	<!-- <link href="css/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"> -->
+  
+    <link href="css/slides.min.css?41331" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="css/Main.css">
+	<!-- Compressed Scripts -->
+	<script src="js/slides.min.js?41331" type="text/javascript"></script>
+
+	<!-- Custom Scripts -->
+	<!-- <script src="js/custom.js" type="text/javascript"></script> -->
+
+	<!-- Fonts and Material Icons -->
+	<link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600,700|Material+Icons"/>
+
+  <style>
+    .aboutduchhen{
+      height: 420px;
+      align-items: center;
+      background-size: cover;
+    }
+    .cont-DMD{
+      padding: 100px;
+      margin-top: 10%;
+    }
+    .footer{
+      background-color: #0b0d17;
+      color: white;
+    }
+	.block{
+background-color: black;
+	color: white;
+	width: fit-content;
+	 position:static;
+	 text-align: left;
+	 margin-left: 60%;
+	 margin-right: 90px;
+	 margin-top: 10%;
+}
+@media screen and (max-width: 1023px) {
+		.aboutduchhen{
+			width:auto;
+			background-position-x: center;
+		}
+		.block{
+				    margin-left: 37% !important;
+			}
+		}
+  </style>
+  </head>
+  <body>
+       <div name="navbar">
+        <nav class="panel top">
+          <div class="sections desktop">
+            <!-- <div class="left"><a href="#" title="Slides Framework"><svg style="width:82px;height:24px"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg></a></div> -->
+            <div class="center">
+              <ul class="menu uppercase">
+                <div class="flex-container"> 
+                  <img class= "logo-img" src="./logo.jpeg" style="height: 70px;" >
+                  <!-- <h1 class="heading-about" style = "color:#d44f71;border:30%;">About Us</h1> -->
+                  <!-- <div class="text-item"><p class="p-text">The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.</div> -->
+                    
+                <li><a href="./index.html">Home</a>            
+                </li>
+                <li><a href="./Aboutus.html">About Us</a></li>
+                <li class="supernav"><a href="./care.html">Care</a>
+                  <ul class="Subnav">
+                    <li><a href="./video.html">Physiotherapy</a></li> <br>
+                    <li><a href="./Hydropathy.html">Hydropathy</a></li> <br>
+                    <li><a href="./comingsoon.html">Diet</a></li> <br>
+                    <li><a href="./comingsoon.html">Counselling</a></li> <br>
+                  </ul>
+                </li>
+              
+                <li>
+                  <a href="./Resources.html">Resources</a>
+                  <ul class = "Subnav">
+                    <li><a href="DMD-Parental-Guidelines.pdf" target="_blank">Guidelines for DMD <br> parents (courtesy IAP)</a></li> <br>
+                    <li><a href="PJ_Nicholoff_Steroid_Protocol.pdf" target="_blank">Steroid protocol</a></li> <br>
+                    <li><a href="steroid-use-and-dmd-for-clinicians-final.pdf" target = "_blank">Steroid side effects and <br> management</a></li> <br>
+                    <li><a href="dmd-hindi.pdf" target="_blank"> डी एम डी की जानकारी (aiims)</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1078918816267266/" target="_blank"> Meeting with dr Anna</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1038707983644004/" target="_blank">Education is must(aiims)</a></li> <br>
+                    <li><a href="./comingsoon.html">Disabilty Certificate</a> </li> <br>
+                    <li><a href="./comingsoon.html">Supportive Devices And <br> Equipment</a> </li> <br>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">Kids Corner</a>
+                  <ul class = "Subnav">
+                    <li><a href="./Achivements.html">Achievements</a></li> <br>
+                    <li><a href="./comingsoon.html">Skills</a></li> <br>
+                    <li><a href="./ImportanceofEducation.html">Education</a></li> <br>
+                    <li><a href="./comingsoon.html">Mental Health</a>
+                      <ul class="Subnav" >
+                        <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                        <li><a href="./comingsoon.html">Facing Society</a></li> <br>
+                        <li><a href="./comingsoon.html">Build Confidence</a></li> <br>
+                      </ul>
+                    
+                    </li> <br>
+                  </ul>
+                
+                </li>
+                <li><a href="#">Moms Corner</a>
+                  <ul class="Subnav">
+                    <li><a href="./ImprovingqualityofLife.html">Improving Quality Of Life</a></li> <br>
+                    <li><a href="./Informingyourson.html">Informing Your Son</a></li> <br>
+                    <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                    <li><a href="./comingsoon.html">Depression</a></li> <br>
+                    <li><a href="Carrier.html">Carrier</a></li> <br>
+                    <li><a href="./comingsoon.html">Sharing Experience</a></li> <br>
+                    <li><a href="./comingsoon.html">Heath Tips</a></li> <br>
+                    <li><a href="./HomeRemedies.html">Home Remedies</a></li> <br>
+                    <li><a href="UnplannedJourney.html">The Unplanned journey</a></li>
+                  </ul>
+                
+                </li>
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank">Contact Us</a></li>
+              </div>
+              </ul>
+            </div>
+            <div class="right">
+              <ul class="menu trim">
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook"></use></svg></a></li>
+                <li><a href="https://twitter.com/dmdindiamom" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter"></use></svg></a></li>
+              </ul>
+            </div>
+          </div>
+           </nav>
+		  </div>
+<div class="first">
+<section class = "aboutduchhen" style = "background-image: url(./assets/img/explore/Quality-of-life.jpg);">
+  <div class="block" style = "background-color: black; color: white; width: fit-content; margin-left:70%;  "> <h1 style="    display: inline-block;
+    font-family: flama_ultracondensedsemibold;
+    font-size: 65px;
+    text-transform: uppercase;
+    color: #fff;
+    background: #000;
+    padding: 25px 18px; font-size: 59pX;">Improving <br> Quality <br> Of Life</h1>  </div>
+<!--     
+    <div class = "cont-DMD">
+      <p>
+        Care. It’s at the heart of everything Parent Project Muscular Dystrophy does. We strive to ensure that people living with Duchenne are living longer, stronger lives, by helping you access expert healthcare providers, a comprehensive team of sub-specialists, and cutting edge treatments.
+
+In this section, the PPMD team has consulted experts and compiled critical information to arm you with the tools you need to receive optimal care. Whether you are the person living with Duchenne, a care provider, a Duchenne carrier, or a clinician, explore the effects of Duchenne by area and the progression of the disease by age and stage. Knowledge is power in the fight to end Duchenne.
+</p> -->
+</section>
+</div>
+
+<div class="second">  
+<section class = "aboutus" style="margin-top: 7%;">
+   <div class = "Aim">
+  <div class = "Aim" style="background-color: white;">
+     <!-- <h1 style="font-family: flama_ultracondensedsemibold; font-size: 40px;">
+       <strong >Explore</strong>
+     </h1> -->
+     <div class = "cont-hyd" style = "padding: 1px 100px;">
+      <div>
+        <p>
+          Just like anyone else, boys with Duchenne have a whole life with possibilities ahead of them. Quality of life is more important than quantity. So when a boy with Duchenne, his family and the people around him make every effort to give him a good life and try to get everything out of it, this boy may have a better life than many other (physically) healthy people. <br> <strong>The life of a boy with Duchenne can be qualitatively improved by making use of the following guidelines:</strong> <br>
+          <p>
+            <ul class="objective" style="font-size: 22px;">
+              <li>Try not to look into the future; instead, try to enjoy every day and the little things that make a day good.</li>
+              
+              <li>Treat him the same way you treat other (physically healthy) children. Boys with Duchenne mention this as one of their biggest wishes.</li> 
+              
+              <li>Try to let him do the same as other children as much as possible. Let him play outside, just like other children. To avoid muscle damage it is important to use lighter materials and tools.</li> 
+              
+              <li>Stimulate him to undertake and keep up relationships with friends. This is vital for his well-being.</li> 
+              
+              <li>Spread awareness of educating the child and using a wheelchair, which would benefit their child for socializing.</li>
+              
+              <li>For as long as possible, let him do as much as he can by himself. It will give him a feeling of independence and self-esteem.</li>
+              <li>Look for a nice hobby together. </li>
+              <li>Do enjoyable activities such as day trips. Do not stop doing activities because of Duchenne. If a certain activity doesn’t work any more, try to find creative solutions.</li>
+            </ul>
+          </p>
+          </p>
+         
+    </div><br>
+      
+    </div>
+</div> 
+</section>
+</div>
+
+<div class="footer">
+  <marquee>"Think Positive Be Positive Live Positive To Provide Best Care To Your Kid". Let's walk the journey together, You are not alone...   Contact us:dmdindiamom@gmail.com</marquee>
+</div>
+    </div> 
+  </body>
+</html>

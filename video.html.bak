@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+  <head>
+  
+    <!-- Page Title -->
+		<title>physiotherapy</title>
+  
+  
+	<!-- Compressed Styles -->
+	<!-- <link href="css/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"> -->
+  
+    <link href="css/slides.min.css?41331" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="css/Main.css">
+	<!-- Compressed Scripts -->
+	<script src="js/slides.min.js?41331" type="text/javascript"></script>
+
+	<!-- Custom Scripts -->
+	<!-- <script src="js/custom.js" type="text/javascript"></script> -->
+
+	<!-- Fonts and Material Icons -->
+	<link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600,700|Material+Icons"/>
+
+  <style>
+    .aboutduchhen{
+      height: 320px;
+      align-items: center;
+      background-size: cover;
+    }
+    .cont-DMD{
+      padding: 100px;
+      margin-top: 10%;
+    }
+    .footer{
+      background-color: #0b0d17;
+      color: white;
+    }
+	@media screen and (max-width: 1023px) {
+		.aboutduchhen{
+			width:auto;
+			background-position-x: center;
+		}
+		.block{
+				margin-left: 37% !important;
+			}
+	}
+
+.block{
+	background-color: black;
+	color: white;
+	width: fit-content;
+	 position:static;
+	 text-align: left;
+	 margin-left: 76%;
+	 margin-right: 90px;
+	 margin-top: 10%;
+
+}
+
+  </style>
+  </head>
+  <body>
+      <div name="navbar">
+        <nav class="panel top">
+          <div class="sections desktop">
+            <!-- <div class="left"><a href="#" title="Slides Framework"><svg style="width:82px;height:24px"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg></a></div> -->
+            <div class="center">
+              <ul class="menu uppercase">
+                <div class="flex-container"> 
+                  <img class= "logo-img" src="./logo.jpeg" style="height: 70px;" >
+                  <!-- <h1 class="heading-about" style = "color:#d44f71;border:30%;">About Us</h1> -->
+                  <!-- <div class="text-item"><p class="p-text">The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.</div> -->
+                    
+                <li><a href="./index.html">Home</a>            
+                </li>
+                <li><a href="#aboutus">About Us</a></li>
+                <li class="supernav"><a href="./care.html">Care</a>
+                  <ul class="Subnav">
+                    <li><a href="./video.html">Physiotherapy</a></li> <br>
+                    <li><a href="./Hydropathy.html">Hydropathy</a></li> <br>
+                    <li><a href="./comingsoon.html">Diet</a></li> <br>
+                    <li><a href="./comingsoon.html">Counselling</a></li> <br>
+                  </ul>
+                </li>
+              
+                <li>
+                  <a href="./Resources.html">Resources</a>
+                  <ul class = "Subnav">
+                    <li><a href="DMD-Parental-Guidelines.pdf" target="_blank">Guidelines for DMD <br> parents (courtesy IAP)</a></li> <br>
+                    <li><a href="PJ_Nicholoff_Steroid_Protocol.pdf" target="_blank">Steroid protocol</a></li> <br>
+                    <li><a href="steroid-use-and-dmd-for-clinicians-final.pdf" target = "_blank">Steroid side effects and <br> management</a></li> <br>
+                    <li><a href="dmd-hindi.pdf" target="_blank"> डी एम डी की जानकारी (aiims)</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1078918816267266/" target="_blank"> Meeting with dr Anna</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1038707983644004/" target="_blank">Education is must(aiims)</a></li> <br>
+                    <li><a href="./comingsoon.html">Disabilty Certificate</a> </li> <br>
+                    <li><a href="./comingsoon.html">Supportive Devices And <br> Equipment</a> </li> <br>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">Kids Corner</a>
+                  <ul class = "Subnav">
+                    <li><a href="./Achivements.html">Achievements</a></li> <br>
+                    <li><a href="./comingsoon.html">Skills</a></li> <br>
+                    <li><a href="./ImportanceofEducation.html">Education</a></li> <br>
+                    <li><a href="./comingsoon.html">Mental Health</a>
+                      <ul class="Subnav" >
+                        <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                        <li><a href="./comingsoon.html">Facing Society</a></li> <br>
+                        <li><a href="./comingsoon.html">Build Confidence</a></li> <br>
+                      </ul>
+                    
+                    </li> <br>
+                  </ul>
+                
+                </li>
+                <li><a href="#">Moms Corner</a>
+                  <ul class="Subnav">
+                    <li><a href="./ImprovingqualityofLife.html">Improving Quality Of Life</a></li> <br>
+                    <li><a href="./Informingyourson.html">Informing Your Son</a></li> <br>
+                    <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                    <li><a href="./comingsoon.html">Depression</a></li> <br>
+                    <li><a href="Carrier.html">Carrier</a></li> <br>
+                    <li><a href="./comingsoon.html">Sharing Experience</a></li> <br>
+                    <li><a href="./comingsoon.html">Heath Tips</a></li> <br>
+                    <li><a href="./HomeRemedies.html">Home Remedies</a></li> <br>
+                    <li><a href="UnplannedJourney.html">The Unplanned journey</a></li>
+                  </ul>
+                
+                </li>
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank">Contact Us</a></li>
+              </div>
+              </ul>
+            </div>
+            <div class="right">
+              <ul class="menu trim">
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook"></use></svg></a></li>
+                <li><a href="https://twitter.com/dmdindiamom" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter"></use></svg></a></li>
+              </ul>
+            </div>
+          </div>
+           </nav>
+		  </div>
+
+<div class="first">		  
+	<section class = "aboutduchhen" style = "background-image: url(./assets/img/background/img-phsi.jpg);">
+		<div class ="block" style = "background-color: black; color: white; width: fit-content; margin-left:57%;  ">
+		<h1 style="    display: inline-block;
+			font-family: flama_ultracondensedsemibold;
+			font-size: 65px;
+			text-transform: uppercase;
+			color: #fff;
+			background: #000;
+			padding: 25px 18px;">physiotherapy
+		</h1>  
+		</div>
+	</section>
+</div>
+
+
+ <div class="second">
+<section class = "aboutus" style="margin-top: 7%;">
+   <div class = "Aim">
+  <div class = "Aim" style="background-color: white;">
+     <!-- <h1 style="font-family: flama_ultracondensedsemibold; font-size: 40px;">
+       <strong >Explore</strong>
+     </h1> -->
+     <div class = "cont-hyd" style = "padding: 1px 100px;">
+      <p>
+        <!-- <h4 style="color: blue;">About Us</h4> -->
+        
+        Physiotherapy is an important part of life for a DMD patient it help patient to maintain mobility, below are the videos which you can refer for Physiotherapy. 
+                
+        Please do consult your physiotherapist before trying anything at home.
+      </p><br>
+      <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JUt2FoIjf7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HTEkzvdkGWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+    </center>
+    </div>
+</div> 
+</div>
+</section>
+</div> <br> <br>
+<div class="footer">
+  <marquee>"Think Positive Be Positive Live Positive To Provide Best Care To Your Kid".Contact us:dmdindiamom@gmail.com</marquee>
+</div>
+<!-- <footer>
+    <div class="foter" style="background-color: #222635; height: 250px;">
+     <img class= "logo-img" src="./logo.jpeg" style="height: 100px; margin-left: 2%; margin-top: 4%; display: inline;">
+   </div>
+</footer> -->
+ 
+    </div> 
+  </body>
+</html>
+

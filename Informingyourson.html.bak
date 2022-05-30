@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+  <head>
+  
+    <!-- Page Title -->
+		<title>Informing Your Son</title>
+  
+  
+	<!-- Compressed Styles -->
+	<!-- <link href="css/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"> -->
+  
+    <link href="css/slides.min.css?41331" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="css/Main.css">
+	<!-- Compressed Scripts -->
+	<script src="js/slides.min.js?41331" type="text/javascript"></script>
+
+	<!-- Custom Scripts -->
+	<!-- <script src="js/custom.js" type="text/javascript"></script> -->
+
+	<!-- Fonts and Material Icons -->
+	<link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600,700|Material+Icons"/>
+
+  <style>
+    .aboutduchhen{
+      height: 500px;
+      align-items: center;
+      background-size: cover;
+    }
+    .cont-DMD{
+      padding: 100px;
+      margin-top: 10%;
+    }
+    .footer{
+      background-color: #0b0d17;
+      color: white;
+    }
+	.block{
+background-color: black;
+	color: white;
+	width: fit-content;
+	 position:static;
+	 text-align: left;
+	 margin-left: 60%;
+	 margin-right: 90px;
+	 margin-top: 10%;
+}
+@media screen and (max-width: 1023px) {
+		.aboutduchhen{
+			width:auto;
+			background-position-x: center;
+		}
+		.block{
+				    margin-left: 37% !important;
+			}
+		}
+  </style>
+  </head>
+  <body>
+     <div name="navbar">
+        <nav class="panel top">
+          <div class="sections desktop">
+            <!-- <div class="left"><a href="#" title="Slides Framework"><svg style="width:82px;height:24px"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg></a></div> -->
+            <div class="center">
+              <ul class="menu uppercase">
+                <div class="flex-container"> 
+                  <img class= "logo-img" src="./logo.jpeg" style="height: 70px;" >
+                  <!-- <h1 class="heading-about" style = "color:#d44f71;border:30%;">About Us</h1> -->
+                  <!-- <div class="text-item"><p class="p-text">The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.</div> -->
+                    
+                <li><a href="./index.html">Home</a>            
+                </li>
+                <li><a href="./Aboutus.html">About Us</a></li>
+                <li class="supernav"><a href="./care.html">Care</a>
+                  <ul class="Subnav">
+                    <li><a href="./video.html">Physiotherapy</a></li> <br>
+                    <li><a href="./Hydropathy.html">Hydropathy</a></li> <br>
+                    <li><a href="./comingsoon.html">Diet</a></li> <br>
+                    <li><a href="./comingsoon.html">Counselling</a></li> <br>
+                  </ul>
+                </li>
+              
+                <li>
+                  <a href="./Resources.html">Resources</a>
+                  <ul class = "Subnav">
+                    <li><a href="DMD-Parental-Guidelines.pdf" target="_blank">Guidelines for DMD <br> parents (courtesy IAP)</a></li> <br>
+                    <li><a href="PJ_Nicholoff_Steroid_Protocol.pdf" target="_blank">Steroid protocol</a></li> <br>
+                    <li><a href="steroid-use-and-dmd-for-clinicians-final.pdf" target = "_blank">Steroid side effects and <br> management</a></li> <br>
+                    <li><a href="dmd-hindi.pdf" target="_blank"> डी एम डी की जानकारी (aiims)</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1078918816267266/" target="_blank"> Meeting with dr Anna</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1038707983644004/" target="_blank">Education is must(aiims)</a></li> <br>
+                    <li><a href="./comingsoon.html">Disabilty Certificate</a> </li> <br>
+                    <li><a href="./comingsoon.html">Supportive Devices And <br> Equipment</a> </li> <br>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">Kids Corner</a>
+                  <ul class = "Subnav">
+                    <li><a href="./Achivements.html">Achievements</a></li> <br>
+                    <li><a href="./comingsoon.html">Skills</a></li> <br>
+                    <li><a href="./ImportanceofEducation.html">Education</a></li> <br>
+                    <li><a href="./comingsoon.html">Mental Health</a>
+                      <ul class="Subnav" >
+                        <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                        <li><a href="./comingsoon.html">Facing Society</a></li> <br>
+                        <li><a href="./comingsoon.html">Build Confidence</a></li> <br>
+                      </ul>
+                    
+                    </li> <br>
+                  </ul>
+                
+                </li>
+                <li><a href="#">Moms Corner</a>
+                  <ul class="Subnav">
+                    <li><a href="./ImprovingqualityofLife.html">Improving Quality Of Life</a></li> <br>
+                    <li><a href="./Informingyourson.html">Informing Your Son</a></li> <br>
+                    <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                    <li><a href="./comingsoon.html">Depression</a></li> <br>
+                    <li><a href="Carrier.html">Carrier</a></li> <br>
+                    <li><a href="./comingsoon.html">Sharing Experience</a></li> <br>
+                    <li><a href="./comingsoon.html">Heath Tips</a></li> <br>
+                    <li><a href="./HomeRemedies.html">Home Remedies</a></li> <br>
+                    <li><a href="UnplannedJourney.html">The Unplanned journey</a></li>
+                  </ul>
+                
+                </li>
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank">Contact Us</a></li>
+              </div>
+              </ul>
+            </div>
+            <div class="right">
+              <ul class="menu trim">
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook"></use></svg></a></li>
+                <li><a href="https://twitter.com/dmdindiamom" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter"></use></svg></a></li>
+              </ul>
+            </div>
+          </div>
+           </nav>
+		  </div>
+<div class="first">
+<section class = "aboutduchhen" style = "background-image: url(./assets/img/explore/img-son.jpg);">
+  <div class="block" style = "background-color: black; color: white; width: fit-content; margin-left:70%;  "> <h1 style="    display: inline-block;
+    font-family: flama_ultracondensedsemibold;
+    font-size: 65px;
+    text-transform: uppercase;
+    color: #fff;
+    background: #000;
+    padding: 25px 18px; font-size: 59pX;">Informing <br> your <br> son</h1>  </div>
+
+</section>  
+</div>
+
+<section class = "aboutus" style="margin-top: 7%;">
+   <div class = "Aim">
+  <div class = "Aim" style="background-color: white;">
+     <!-- <h1 style="font-family: flama_ultracondensedsemibold; font-size: 40px;">
+       <strong >Explore</strong>
+     </h1> -->
+     <div class = "cont-hyd" style = "padding: 1px 100px;">
+      <div>
+        <p>
+          When the boys get older (from age 7), they will become less egocentric and are more capable of thinking about their future. They can now think about their later lives. It is not until this turning point that they begin to accept their disease and its disabilities. As the boys get older, occasional short talks can help them to talk about the different aspects of their disease. <br>
+<strong>The following guidelines may help you talk about Duchenne with your son: <br></strong>
+    <ul class="objective" style = "font-size: 22px;">
+        <li>Always be honest, but do not talk too much: provide the boy merely with the information he asks for. Keep in mind that children do not ask more than they are capable of coping with.</li> 
+        <li>Reassure him. You can do this by telling him, for example: “You will get anything you need, and we know smart doctors who will do everything they can to help us”.</li>
+        <li>Be sure that the boy understands that his disease is not his fault: he is not to blame!</li> 
+        <li>Anger, grief and other emotions can emerge during such talks (see box 21). This is completely normal, so do not try to avoid it. Instead show understanding and be a coach of the boy’s emotions.</li>  
+        <li>Do not talk about his future if he does not ask about it. If he does ask, do not avoid the subject and always be honest. But never shut the door on new possibilities by saying, for example: “There are many doctors experimenting and searching for a cure, who knows what will be possible in a few years?”</li>
+    </ul>        
+  </p>      
+    </div><br>
+      
+    </div>
+</div> 
+</section> <br> <br>
+
+<div class="footer">
+  <marquee>"Think Positive Be Positive Live Positive To Provide Best Care To Your Kid". Let's walk the journey together, You are not alone...   Contact us:dmdindiamom@gmail.com</marquee>
+</div>
+    </div> 
+  </body>
+</html>

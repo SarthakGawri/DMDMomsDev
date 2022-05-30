@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+  <head>
+  
+    <!-- Page Title -->
+		<title>Carriers</title>
+  
+  
+	<!-- Compressed Styles -->
+	<!-- <link href="css/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"> -->
+  
+    <link href="css/slides.min.css?41331" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="css/Main.css">
+	<!-- Compressed Scripts -->
+	<script src="js/slides.min.js?41331" type="text/javascript"></script>
+
+	<!-- Custom Scripts -->
+	<!-- <script src="js/custom.js" type="text/javascript"></script> -->
+
+	<!-- Fonts and Material Icons -->
+	<link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600,700|Material+Icons"/>
+
+  <style>
+    .aboutduchhen{
+      height: 400px;
+      align-items: center;
+      background-size: cover;
+    }
+    .cont-DMD{
+      padding: 100px;
+      margin-top: 10%;
+    }
+    .footer{
+      background-color: #0b0d17;
+      color: white;
+    }
+  </style>
+  </head>
+  <body>
+      <div name="navbar">
+        <nav class="panel top">
+          <div class="sections desktop">
+            <!-- <div class="left"><a href="#" title="Slides Framework"><svg style="width:82px;height:24px"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg></a></div> -->
+            <div class="center">
+              <ul class="menu uppercase">
+                <div class="flex-container"> 
+                  <img class= "logo-img" src="./logo.jpeg" style="height: 70px;" >
+                  <!-- <h1 class="heading-about" style = "color:#d44f71;border:30%;">About Us</h1> -->
+                  <!-- <div class="text-item"><p class="p-text">The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.</div> -->
+                    
+                <li><a href="./index.html">Home</a>            
+                </li>
+                <li><a href="./Aboutus.html">About Us</a></li>
+                <li class="supernav"><a href="./care.html">Care</a>
+                  <ul class="Subnav">
+                    <li><a href="./video.html">Physiotherapy</a></li> <br>
+                    <li><a href="./Hydropathy.html">Hydropathy</a></li> <br>
+                    <li><a href="./comingsoon.html">Diet</a></li> <br>
+                    <li><a href="./comingsoon.html">Counselling</a></li> <br>
+                  </ul>
+                </li>
+              
+                <li>
+                  <a href="./Resources.html">Resources</a>
+                  <ul class = "Subnav">
+                    <li><a href="DMD-Parental-Guidelines.pdf" target="_blank">Guidelines for DMD <br> parents (courtesy IAP)</a></li> <br>
+                    <li><a href="PJ_Nicholoff_Steroid_Protocol.pdf" target="_blank">Steroid protocol</a></li> <br>
+                    <li><a href="steroid-use-and-dmd-for-clinicians-final.pdf" target = "_blank">Steroid side effects and <br> management</a></li> <br>
+                    <li><a href="dmd-hindi.pdf" target="_blank"> डी एम डी की जानकारी (aiims)</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1078918816267266/" target="_blank"> Meeting with dr Anna</a></li> <br>
+                    <li><a href="https://www.facebook.com/100000829336534/videos/1038707983644004/" target="_blank">Education is must(aiims)</a></li> <br>
+                    <li><a href="./comingsoon.html">Disabilty Certificate</a> </li> <br>
+                    <li><a href="./comingsoon.html">Supportive Devices And <br> Equipment</a> </li> <br>
+                    <li><a href="./comingsoon.html">Video</a></li> <br>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">Kids Corner</a>
+                  <ul class = "Subnav">
+                    <li><a href="./Achivements.html">Achievements</a></li> <br>
+                    <li><a href="./comingsoon.html">Skills</a></li> <br>
+                    <li><a href="./ImportanceofEducation.html">Education</a></li> <br>
+                    <li><a href="./comingsoon.html">Mental Health</a>
+                      <ul class="Subnav" >
+                        <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                        <li><a href="./comingsoon.html">Facing Society</a></li> <br>
+                        <li><a href="./comingsoon.html">Build Confidence</a></li> <br>
+                      </ul>
+                    
+                    </li> <br>
+                  </ul>
+                
+                </li>
+                <li><a href="#">Moms Corner</a>
+                  <ul class="Subnav">
+                    <li><a href="./ImprovingqualityofLife.html">Improving Quality Of Life</a></li> <br>
+                    <li><a href="./Informingyourson.html">Informing Your Son</a></li> <br>
+                    <li><a href="./comingsoon.html">Acceptance</a></li> <br>
+                    <li><a href="./comingsoon.html">Depression</a></li> <br>
+                    <li><a href="Carrier.html">Carrier</a></li> <br>
+                    <li><a href="./comingsoon.html">Sharing Experience</a></li> <br>
+                    <li><a href="./comingsoon.html">Heath Tips</a></li> <br>
+                    <li><a href="./HomeRemedies.html">Home Remedies</a></li> <br>
+                    <li><a href="UnplannedJourney.html">The Unplanned journey</a></li>
+                  </ul>
+                
+                </li>
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank">Contact Us</a></li>
+              </div>
+              </ul>
+            </div>
+            <div class="right">
+              <ul class="menu trim">
+                <li><a href="https://www.facebook.com/groups/dmdindia" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook"></use></svg></a></li>
+                <li><a href="https://twitter.com/dmdindiamom" target="_blank"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter"></use></svg></a></li>
+              </ul>
+            </div>
+          </div>
+          </div>
+        </nav>
+    <div class="heading-About-us">
+      <!-- <div class="flex-container"> 
+        <img class= "logo-img" src="./logo.jpeg" >
+        <h1 class="heading-about" style = "color:#d44f71;border:30%;">Importance Of Education</h1>
+        <!-- <div class="text-item"><p class="p-text">The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.The relationship between mother and child is beyond words If the bond between them is firm, then  the result will come out to be healthy. If the child is specially-abled, then the mother's role in his life becomes crucial.</div> -->
+<!-- <br> -->
+<br> <br> <br> <br> <br>
+<section class = "aboutduchhen" style = "background-image: url(./assets/img/explore/carrier.jpg);">
+  <div style = "background-color: black; color: white; width: fit-content; margin-left:70%;  "> <h1 style="    display: inline-block;
+    font-family: flama_ultracondensedsemibold;
+    font-size: 65px;
+    text-transform: uppercase;
+    color: #fff;
+    background: #000;
+    padding: 25px 18px; font-size: 59pX;">Carriers </h1>  </div>
+<!--     
+    <div class = "cont-DMD">
+      <p>
+        Care. It’s at the heart of everything Parent Project Muscular Dystrophy does. We strive to ensure that people living with Duchenne are living longer, stronger lives, by helping you access expert healthcare providers, a comprehensive team of sub-specialists, and cutting edge treatments.
+
+In this section, the PPMD team has consulted experts and compiled critical information to arm you with the tools you need to receive optimal care. Whether you are the person living with Duchenne, a care provider, a Duchenne carrier, or a clinician, explore the effects of Duchenne by area and the progression of the disease by age and stage. Knowledge is power in the fight to end Duchenne.
+</p> -->
+    </div>
+</section>  
+<section class = "aboutus" style="margin-top: 7%;">
+   <div class = "Aim">
+  <div class = "Aim" style="background-color: white;">
+     <!-- <h1 style="font-family: flama_ultracondensedsemibold; font-size: 40px;">
+       <strong >Explore</strong>
+     </h1> -->
+     <div class = "cont-hyd" style = "padding: 1px 100px;">
+      <div>
+        <p>
+          DMD is a genetic disease. It is caused by spontaneously in the child or inherited from their mother. <br>
+          Human body is made up with cells, cells include all instructions our body needs they develop, live and reproduce. They are made up of DNA.DNA are made up of smaller section called genes. <br>
+          Our long strands of DNA which contain Genes are organised into chromosomes, and these are hereditary that means they are passed down from parents to children.But genes can also be spontaneously change inside an embryo during pregnancy. <br>
+          In 1/3 of DMD cases, this happend spontaneously at the beginning of pregnancy. <br>
+          In 2/3rd of DMD casess, the genetic changes is passed down from mother to the child. <br>
+          These womens are called carriers bexause they carry the DMD gene but they do not have the conditions themselves.Some carriers have symptoms of DMD. <br>
+          Evert person has 2 sets of chromosomes, which contains genes, which determined of they are male or female. females have X and males have one X and one Y chromosomes. The dystrophin gene is located in the X chromosome. <br>
+          Here is a pictorial X linked dominant inheritance it is explained, so if a woman is pregnant there is a one in four chance that the baby will be effected. <br>
+  <center><img src="./assets/img/carriers.png" alt=""> <br></center>
+  <p>
+          If a man with DMD has children with a woman who is not a  carrier, none of sons will have DMD but all their daughters will be carrier. <br>
+          <b>Why has this happened?</b> <br>
+          No one is to blame, no one did anything.There is nothing a mother could do during her pregnancy to prevent the child from developing dmd.
+genes are complicated sometimes they go wrong.<br>
+
+For carriers, accepting that this was NOT something you chose to pass onto your child, that <b>you had NO control over which genes were passed on</b>, and connecting with other carriers who can relate to how you're feeling and reassure you that you are not alone.
+		  <br>
+          <strong>Care for Carriers</strong> <br>
+          Though they are not effected, but few changes can be observed in their cardiac fuction, fatigue and muscle weakness. 
+
+      </p>
+    </div><br>
+      
+    </div>
+</div> 
+</section> <br> <br>
+
+<div class="footer">
+  <marquee>"Think Positive Be Positive Live Positive To Provide Best Care To Your Kid". Let's walk the journey together, You are not alone...   Contact us:dmdindiamom@gmail.com</marquee>
+</div>
+    </div> 
+  </body>
+</html>
+
